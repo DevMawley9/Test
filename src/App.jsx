@@ -53,7 +53,7 @@ export default function App() {
           {pstatus ? "Hide" : "Show"}
         </button>
        <div className="items-center justify-center text-center border-orange-500 ">
-        <button className="items-center justify-center p-2 mt-2 text-xl bg-yellow-400 rounded-lg text-pretty r">Sing up</button>
+        <button className="items-center justify-center p-2 mt-2 text-xl bg-yellow-400 rounded-lg text-pretty r">Sign up</button>
         </div>
       </form>
     </div>
